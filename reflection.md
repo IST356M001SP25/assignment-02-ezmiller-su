@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Ezra J Miller
+Sudent Email:  ezmiller@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+Through thorough trial and error, I learned how to parse a variable number of things using loops. The only thing I struggled with was the final program, where I had to delete the last line of the txt file because it was empty.
