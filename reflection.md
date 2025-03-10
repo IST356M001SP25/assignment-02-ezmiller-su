@@ -23,4 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
-Through thorough trial and error, I learned how to parse a variable number of things using loops. The only thing I struggled with was the final program, where I had to delete the last line of the txt file because it was empty.
+Through thorough trial and error, I learned how to parse a variable number of things using loops. The only thing I struggled with was the final program, where I had to delete the last line of the txt file because it was empty. I still don't fully understand the best way to automate detecting and removing empty lines without manual intervention in other contexts. In future I need to work on file handling techniques in Python, specifically using .strip() and conditional checks to handle empty lines dynamically.
